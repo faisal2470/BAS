@@ -1,0 +1,25 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Python build + caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.build/
+dist/
+*.egg-info/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Virtual envs
+.venv/
+venv/
+ENV/
