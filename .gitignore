@@ -4,6 +4,7 @@
 
 # VS Code
 .vscode/
+.misc/
 
 # Python build + caches
 __pycache__/
